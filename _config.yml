@@ -22,8 +22,8 @@ author: Chan Jae Shin
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Beautiful Jekyll: ""
+    - Learn markdown: ""
   Author's home: ""
 
 ################
