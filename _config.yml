@@ -22,8 +22,7 @@ author: Chan Jae Shin
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Cyanobacterial sensor: "https://www.sciencedirect.com/science/article/pii/S138589472300150X"
-    - Preterm birth sensor: "https://www.e-asct.org/journal/view.html?doi=10.5757/ASCT.2023.32.1.30"
+    Journal: "/research/journal/"
   Interests: ""
 
 ################
